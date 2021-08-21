@@ -2,15 +2,10 @@
 
 ```bash
 ➜  ~ whoami
-➜  ~ Will B Chang. A minimalist, learner & creator.
+➜  ~ Will B Chang.
 ➜  ~ pwd
 ➜  ~ /China/Shanghai/
 ```
-
-Minimalism makes me focus.\
-Learning makes me insightful.\
-Creating makes me immortal.\
-Good things always colour me in.
 
 
 ## Code
