@@ -22,7 +22,6 @@ I build and use softwares to make my daily life better, and may make yours too.
 <code><a href="https://www.alfredapp.com/"><img height="40" src="images/alfred.png"></a></code>
 <code><a href="https://www.gnu.org/software/emacs/"><img height="40" src="images/emacs.png"></a></code>
 <code><a href="https://www.jetbrains.com/ruby/"><img height="40" src="images/rubymine.png"></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="40" src="images/vscode.png"></a></code>
 
 ### Languages & Frameworks
 <code><a href="https://nodejs.org/"><img height="35" src="images/nodejs.png"></a></code>
