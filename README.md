@@ -20,7 +20,8 @@ I build and use softwares to make my daily life better, and may make yours too.
 ### OS & Apps
 <code><a href="https://www.apple.com/macos/"><img height="40" src="images/macos.png"></a></code>
 <code><a href="https://www.alfredapp.com/"><img height="40" src="images/alfred.png"></a></code>
-<code><a href="https://www.google.com/chrome/"><img height="40" src="images/google-chrome.png"></a></code>
+<code><a href="https://www.gnu.org/software/emacs/"><img height="40" src="images/emacs.png"></a></code>
+<code><a href="https://www.jetbrains.com/ruby/"><img height="40" src="images/rubymine.png"></a></code>
 <code><a href="https://code.visualstudio.com/"><img height="40" src="images/vscode.png"></a></code>
 
 ### Languages & Frameworks
@@ -37,6 +38,4 @@ I'm also interested in Rock Music because of [JoJo's Bizarre Adventure](https://
 
 
 ## Book
-Novel is my favorite since childhood. I started writing Chinese poetry, prose and short stories for personal expression since 2010. [Jean-Christophe](https://en.wikipedia.org/wiki/Jean-Christophe) effects me a lot, I have thoughts about writing a novel relative to it.
-
-Check [book.willbc.cn](https://book.willbc.cn) if you can read Chinese.
+Novel is my favorite since childhood. I started writing Chinese poetry, prose and short stories for personal expression since 2010. [Jean-Christophe](https://en.wikipedia.org/wiki/Jean-Christophe) effects me a lot.
