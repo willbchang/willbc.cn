@@ -2,9 +2,9 @@
 
 ```bash
 ➜  ~ whoami
-➜  ~ Will B Chang.
+➜  ~ Will B Chang
 ➜  ~ pwd
-➜  ~ /China/Shanghai/
+➜  ~ /China/Shanghai
 ```
 
 
@@ -25,11 +25,11 @@ I build and use softwares to make my daily life better, and may make yours too.
 <code><a href="https://jekyllrb.com/"><img height="35" src="images/jekyll.png"></a></code>
 
 ## Music
-[Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) made me get through the hard days which is the reason I felt in love with classical music and started learning piano. I like the immersion and self-expression while playing piano, it's an active soul which is made by the composer and player across time and space.
+[Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) helped me get through the hard days, then I felt in love with classical music and started learning piano. It's a converstation between the composer and player across the time and space.
 
 I'm also interested in Rock Music because of [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure), you should definitely check it.
 
 
 
 ## Book
-Novel is my favorite since childhood. I started writing Chinese poetry, prose and short stories for personal expression since 2010. [Jean-Christophe](https://en.wikipedia.org/wiki/Jean-Christophe) effects me a lot.
+Novel is my favorite since childhood. I ahve started writing Chinese poetry, prose and short stories since 2010. [Jean-Christophe](https://en.wikipedia.org/wiki/Jean-Christophe) effects me a lot.
